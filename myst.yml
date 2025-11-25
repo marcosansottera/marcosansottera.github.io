@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d40dc982-abae-468f-b11b-7c5148aa6be0
+  title: Informatica
+  description: Note sulla programmazione e dintorni
+  # keywords: []
+  authors: [Marco Sansottera]
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
